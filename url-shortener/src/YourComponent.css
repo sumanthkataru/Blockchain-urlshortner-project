@@ -1,0 +1,11 @@
+/* Centered Line Style for h1 */
+h1 {
+    text-align: center;
+    /* Center the text horizontally */
+    line-height: 2;
+    /* Set the line height to control vertical centering */
+    border-bottom: 2px solid #333;
+    /* Add a line (border) underneath the text */
+    padding-bottom: 10px;
+    /* Adjust padding for space between text and line */
+}

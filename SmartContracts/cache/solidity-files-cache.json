@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\suman\\OneDrive\\Documents\\5 sem\\btc\\project 1\\SmartContracts\\contracts\\TimeBasedURLShortener.sol": {
+      "lastModificationDate": 1700114127505,
+      "contentHash": "b9dee5d91ffa2e8a5726e78fed77b1a1",
+      "sourceName": "contracts/TimeBasedURLShortener.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TimeBasedURLShortener"
+      ]
+    }
+  }
+}

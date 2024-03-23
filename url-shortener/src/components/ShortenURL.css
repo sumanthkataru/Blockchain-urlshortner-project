@@ -1,0 +1,50 @@
+/* ShortenURL.css */
+
+.shorten-url-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-container {
+    margin-bottom: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.shorten-url-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.shorten-url-button:hover {
+    background-color: #45a049;
+}
+
+.url-results {
+    margin-top: 15px;
+}
+
+.url-results a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+.url-results a:hover {
+    text-decoration: underline;
+}
